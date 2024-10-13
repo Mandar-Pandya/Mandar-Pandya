@@ -18,4 +18,6 @@ Hey there! I'm a passionate Frontend Developer with over 1.5 years of hands-on e
 ---
 [![](https://visitcount.itsvg.in/api?id=Mandar-Pandya&icon=0&color=1)](https://visitcount.itsvg.in)
 
+[![An image of @mandarpandya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mandarpandya)](https://holopin.io/@mandarpandya)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
